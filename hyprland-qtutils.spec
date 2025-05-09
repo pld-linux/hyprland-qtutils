@@ -2,12 +2,12 @@
 
 Summary:	Hyprland QT/qml utility apps
 Name:		hyprland-qtutils
-Version:	0.1.3
+Version:	0.1.4
 Release:	1
 License:	BSD
 Group:		Applications
 Source0:	https://github.com/hyprwm/hyprland-qtutils/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	b4144d246f2b15df5ef675bf976a7dcb
+# Source0-md5:	77bc00692024befce435f7f4c87d0e77
 URL:		https://hyprland.org/
 BuildRequires:	Qt6Core-devel >= %{qtver}
 BuildRequires:	Qt6Quick-devel >= %{qtver}
